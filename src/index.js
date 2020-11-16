@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import { init } from './canvasHelpers'
-import ChromeBoisDomain from './ChromeBoisDomain.js'
+import ChromeBoisDomain from './ChromeBoisDomain'
 
 init()
 
